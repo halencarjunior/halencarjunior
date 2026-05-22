@@ -33,7 +33,7 @@ BugBuntu Linux
 - `working_on`: [BugBuntu Linux](https://www.github.com/halencarjunior/BugBuntu)
 - `research_focus`: exploitation, security tooling, low-level systems
 - `writing`: [humbertojunior.com.br](https://www.humbertojunior.com.br)
-- `contact`: [twitter.com/bt0s3c](https://twitter.com/bt0s3c)
+- `contact`: [x/andr4uz](https://x.com/andr4uz)
 
 ---
 
