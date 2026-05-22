@@ -1,33 +1,92 @@
-<h1 align="center">Hi 👋, I'm bt0</h1>
-<h3 align="center">Information Security Enthusiast, Researcher, Musician (on free time)</h3>
+<h1 align="center">[ bt0@halencarjunior ]</h1>
+<h3 align="center">> cybersec • research • offensive curiosity • noise in the dark</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=halencarjunior&label=Profile%20views&color=0e75b6&style=flat" alt="halencarjunior" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halencarjunior" alt="halencarjunior" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bt0s3c" target="blank"><img src="https://img.shields.io/twitter/follow/bt0s3c?logo=twitter&style=for-the-badge" alt="bt0s3c" /></a> </p>
-
-- 🔭 I’m currently working on [BugBuntu Linux](https://www.github.com/halencarjunior/BugBuntu)
-
-- 🌱 I’m currently learning **How the life works!**
-
-- 👨‍💻 All of my projects are available at [https://www.github.com/halencarjunior](https://www.github.com/halencarjunior)
-
-- 📝 I regularly write articles on [https://www.humbertojunior.com.br](https://www.humbertojunior.com.br)
-
-- 📫 How to reach me **https://twitter.com/bt0s3c**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bt0s3c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bt0s3c" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=halencarjunior&label=TARGET%20LOCKED&color=00ff41&style=flat-square" alt="halencarjunior" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square" alt="online status" />
+  <img src="https://img.shields.io/badge/MODE-TERMINAL%20HACKER-ff0033?style=flat-square" alt="terminal hacker mode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png" alt="rust" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:00b8ff,100:ff0033&height=170&section=header&text=INTRUSION%20DETECTED&fontSize=38&fontColor=0d1117&animation=fadeIn" alt="header banner" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halencarjunior&show_icons=true&locale=en" alt="halencarjunior" /></p>
+```bash
+$ whoami
+bt0
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halencarjunior&" alt="halencarjunior" /></p>
+$ id
+uid=1337(bt0) gid=1337(cyber) groups=1337(security),1337(research),1337(code)
 
-<p><a href="https://www.buymeacoffee.com/halencarjunior" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
+$ mindset
+aggressive curiosity
+defensive awareness
+reverse engineering energy
 
+$ current_target
+BugBuntu Linux
+```
+
+---
+
+### `root@recon:~#`
+
+- `working_on`: [BugBuntu Linux](https://www.github.com/halencarjunior/BugBuntu)
+- `research_focus`: exploitation, security tooling, low-level systems
+- `writing`: [humbertojunior.com.br](https://www.humbertojunior.com.br)
+- `contact`: [twitter.com/bt0s3c](https://twitter.com/bt0s3c)
+
+---
+
+### `root@payload:~#`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,linux,bash,git,github,vim" alt="tech stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/skill-reverse%20engineering-00ff41?style=for-the-badge&logo=gnu&logoColor=0d1117" alt="reverse engineering" />
+  <img src="https://img.shields.io/badge/skill-payload%20analysis-00b8ff?style=for-the-badge&logo=gnubash&logoColor=0d1117" alt="payload analysis" />
+  <img src="https://img.shields.io/badge/skill-threat%20hunting-ff0033?style=for-the-badge&logo=suricata&logoColor=white" alt="threat hunting" />
+</p>
+
+---
+
+### `root@operations:~#`
+
+- [BugBuntu Linux](https://www.github.com/halencarjunior/BugBuntu) - main battlefield
+- Keep only your strongest repos here
+- Remove anything that looks generic or filler
+
+---
+
+### `root@telemetry:~#`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=halencarjunior&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0033&text_color=c9d1d9" alt="github stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=halencarjunior&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff0033&currStreakLabel=c9d1d9" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=halencarjunior&theme=redical&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
+### `root@contact:~#`
+
+<p align="left">
+  <a href="https://twitter.com/bt0s3c" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="https://www.humbertojunior.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00ff41?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="website" />
+  </a>
+  <a href="https://www.buymeacoffee.com/halencarjunior" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ff813f?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="buy me a coffee" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0033,50:00b8ff,100:00ff41&height=120&section=footer" alt="footer banner" />
+</p>
