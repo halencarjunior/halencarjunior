@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=halencarjunior&label=TARGET%20LOCKED&color=00ff41&style=flat-square" alt="halencarjunior" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square" alt="online status" />
-  <img src="https://img.shields.io/badge/MODE-TERMINAL%20HACKER-ff0033?style=flat-square" alt="terminal hacker mode" />
 </p>
 
 <p align="center">
@@ -76,7 +75,7 @@ BugBuntu Linux
 ### `root@contact:~#`
 
 <p align="left">
-  <a href="https://twitter.com/bt0s3c" target="_blank">
+  <a href="https://x.com/andr4uz" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
   <a href="https://www.humbertojunior.com.br" target="_blank">
